@@ -1,0 +1,7 @@
+@mixin mainColumn {
+	width: 90%;
+	max-width: $columnMaxWith;
+	margin: 0 auto;
+}
+
+
